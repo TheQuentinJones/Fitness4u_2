@@ -1,0 +1,129 @@
+html,body {
+
+    background-color: black;
+}
+
+.hero.is-primary.is-flex.header{
+
+    background-color: black;
+}
+
+h1 {
+
+    color: red;
+    font-family: 'Rubik Vinyl', cursive;
+    font-size: 50px;
+
+}
+
+
+#navbar {
+
+    background-color: black;
+}
+
+.navbar.html{
+
+    background-color: black;
+}
+
+.button.is-primary.button2{
+
+    background-color: red;
+    color: black;
+    font-family: 'Contrail One', cursive;
+}
+
+.button.is-light.button2{
+
+    background-color: red;
+    font-family: 'Contrail One', cursive;
+
+}
+
+#quote {
+
+    background-color: black;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Covered By Your Grace', cursive;
+
+}
+
+#getStarted{
+
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.beginBttn{
+
+    background-color: red;
+    font-family: 'Contrail One', cursive;
+
+    font-size: 25px;
+    color: black
+}
+.has-text-right.quote {
+
+    font-family: 'Covered By Your Grace', cursive;
+    color: red;
+    font-size: 30px;
+}
+
+.form.login-form.box.login {
+
+    background-color: darkgray;
+}
+
+.form.signup-form.box.sign-up {
+
+    background-color: darkgray;
+}
+
+footer p {
+
+    color: white;
+}
+
+.button.is-black.login-form.login  {
+
+    background-color: red;
+    color: black;
+    font-family: 'Contrail One', cursive;
+}
+
+.button.is-black.signup-form.sign-up {
+
+    background-color: red;
+    color: black;
+    font-family: 'Contrail One', cursive;  
+}
+
+form h2 {
+
+    /* font-family: 'Contrail One', cursive;   */
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.card.cards {
+
+    width: 400px;
+    height: 200px;
+    margin-left: 5px;
+    margin-top: 5rem;
+    background-color: black;
+    color: white;
+    
+}
+
+.card.cards:hover{
+
+    background-color: red;
+}
+
+
